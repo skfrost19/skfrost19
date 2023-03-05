@@ -38,5 +38,3 @@
 <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=skfrost19&" alt="skfrost19" /> </td>
 </tr>
 </table>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skfrost19&show_icons=true&locale=en&layout=compact" alt="skfrost19" style = "width:100%"/>
