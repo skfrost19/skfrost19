@@ -33,7 +33,7 @@
 <br><br>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skfrost19&show_icons=true&locale=en&layout=compact" alt="skfrost19"/> -->
  <div>
-<img align="left" src= "https://github-readme-stats.vercel.app/api?username=skfrost19&show_icons=true" width = "412" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=skfrost19&" alt="skfrost19" width = "412" />
+<img align="left" src= "https://github-readme-stats.vercel.app/api?username=skfrost19&show_icons=true" width = "410" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=skfrost19&" alt="skfrost19" width = "410" />
    </div>
 </p>
