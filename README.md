@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saahhiill123456@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cn5gsLdrfVP-X0PXhzfXlhk0rYZtCQSK/view?usp=sharing](https://drive.google.com/file/d/1cn5gsLdrfVP-X0PXhzfXlhk0rYZtCQSK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yNsI6NHEjg0_t-h1zTWJfss1ZgL2B29M/view?usp=sharing)
 
 - ⚡ Fun fact **I can Cook😜**
 
