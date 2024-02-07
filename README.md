@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Pursuing MTech. from **IIIT-Allahabad**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
