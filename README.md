@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Working as **Data Scientist** at **EXL**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **SQL**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
