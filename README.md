@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skfrost19&label=Profile%20views&color=0e75b6&style=flat" alt="skfrost19" /> </p>
 
-- 🔭 I’m currently Pursuing MTech. from **IIIT-Allahabad**
+- 🔭 I’m currently Working as **Data Scientist** at **EXL**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
